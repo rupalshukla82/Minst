@@ -28,5 +28,9 @@ The MNIST (Modified National Institute of Standards and Technology) dataset is a
 - Github url : https://github.com/rupalshukla82/Minst
 - Live demo :  https://mybinder.org/v2/gh/rupalshukla82/Minst/master  
 
-
+# TECHNOLOGY USED 
+- nUmoy : for numriec oprations
+- pandas : for working with dataset
+- matpotlib : for ploting plot
+- scikit learn : for working with mnist dataset 
 
