@@ -25,8 +25,8 @@ The MNIST (Modified National Institute of Standards and Technology) dataset is a
 - scikit-learn : `pip intall scikit-learn`
 
 # live links
-- Github url : `https://github.com/rupalshukla82/Minst`
-- Live demo : ` https://mybinder.org/v2/gh/rupalshukla82/Minst/master`
+- Github url : https://github.com/rupalshukla82/Minst
+- Live demo :  https://mybinder.org/v2/gh/rupalshukla82/Minst/master  
 
 
 
